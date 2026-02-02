@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+bin/
+.settings/
+.project
